@@ -1,0 +1,4 @@
+[submodule "miniaudio/src"]
+	path = miniaudio/src
+	url = https://github.com/mackron/miniaudio.git
+	branch = 0.11.16
